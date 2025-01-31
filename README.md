@@ -38,6 +38,8 @@ How to Use:
 * Option 3: Delete a student by their name.
 * Option 4: Exit the system.
 
+<hr/>
+
 Example Interaction:
 
 Welcome to Student Management System.
