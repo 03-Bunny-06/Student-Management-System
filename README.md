@@ -4,6 +4,8 @@ Project Description:
 
 This Python script provides a Student Management System that allows users to manage student data efficiently. Users can add, view, and delete student records through an interactive console-based interface.
 
+<hr/>
+
 Features:
 
 1. Add Student Details: 
@@ -24,6 +26,8 @@ Features:
 4. Exit
 
 * Exit the system gracefully with a thank-you message.
+
+<hr/>
 
 How to Use:
 
